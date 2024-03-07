@@ -1,0 +1,9 @@
+{
+  "type": "module",
+  "scripts": {
+    "test": "node ./dist/AsyncWebAssembly.test.js"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
